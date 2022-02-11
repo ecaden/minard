@@ -1,5 +1,5 @@
 from .db import engine 
-import detector_state
+import minard.detector_state
 
 # PMT Type defines
 PMT_TYPES = {

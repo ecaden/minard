@@ -10,3 +10,5 @@ psycopg2
 #alabaster
 couchdb
 wtforms
+requests
+email_validator
