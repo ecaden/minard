@@ -270,6 +270,6 @@ def import_RS_ratdb(runs, result, limit, offset):
         # temp = json.loads(row[0])
         temp = row[0]
         listData[temp["pass"]] = temp
-        print temp
+        #print (temp)
 
     return info, criteriaInfo, OrderedDict(sorted(listData.items()))

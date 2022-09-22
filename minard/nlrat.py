@@ -1,4 +1,4 @@
-import detector_state
+import minard.detector_state
 import glob
 import os
 import re
